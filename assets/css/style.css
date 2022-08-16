@@ -108,7 +108,7 @@ body { background: var(--white); }
   border-radius: 5px;
   transition: var(--transition);
   border: 2px solid gray;
-}
+}  
   
 .btn-secondary {
   background: var(--rich-black-fogra-29);
