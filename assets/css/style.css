@@ -109,7 +109,7 @@ body { background: var(--white); }
   transition: var(--transition);
   border: 2px solid gray;
 }
-
+  
 .btn-secondary {
   background: var(--rich-black-fogra-29);
   box-shadow: inset 0 -10px 20px hsl(240, 8%, 37%);
