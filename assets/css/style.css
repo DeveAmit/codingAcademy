@@ -123,7 +123,7 @@ body { background: var(--white); }
 .btn-primary {
   background: var(--orange-web);
   box-shadow: 5px 10px 30px hsla(39, 100%, 50%, 0.3);
-}
+}  
 
 .btn-primary:is(:hover, :focus) {
   background: var(--gambog);
