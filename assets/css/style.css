@@ -106,7 +106,7 @@ body { background: var(--white); }
   font-family: var(--ff-poppins);
   padding: 10px 18px;
   border-radius: 5px;
-  transition: var(--transition);
+  transition: var(--transition); 
   border: 2px solid gray;
 }  
   
