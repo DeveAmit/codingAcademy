@@ -116,7 +116,7 @@ body { background: var(--white); }
 }
 
 .btn-secondary:is(:hover, :focus) {
-  background: var(--gambog);
+  background: var(--gambog);  
   box-shadow: 5px 10px 30px hsla(39, 100%, 50%, 0.3);
 }
 
