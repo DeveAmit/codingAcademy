@@ -23,7 +23,6 @@ for (let i = 0; i < navElemArr.length; i++) {
 }
 
 
-
 /**
  * header sticky functionality
  */
