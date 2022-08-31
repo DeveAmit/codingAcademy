@@ -18,7 +18,7 @@ for (let i = 0; i < navElemArr.length; i++) {
     navbar.classList.toggle("active");
     overlay.classList.toggle("active");
 
-  });
+  }); 
      
 }
 
